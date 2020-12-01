@@ -8,7 +8,7 @@ Group Project for CSC221 2020FA
 
 **Web scraped URL:** https://en.wikipedia.org/wiki/Oklahoma
 
-Collaborators:
+**Collaborators:**
 
 - Susan Rizzo           srizzo@waketech.edu
 - Lee Lewis             lelewis1@my.waketech.edu
