@@ -12,6 +12,6 @@ Group Project for CSC221 2020FA
 
 - Susan Rizzo           srizzo@waketech.edu
 - Lee Lewis             lelewis1@my.waketech.edu
-- Ricardo Longoria      rlongoria@my.waketech.edu
+- Rick Longoria      rlongoria@my.waketech.edu
 - Patrick Gabriel Luy   paluy@my.waketech.edu
 - Anna Malmberg         amalmberg@my.waketech.edu
