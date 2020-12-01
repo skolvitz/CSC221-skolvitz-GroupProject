@@ -2,16 +2,16 @@
 
 Group Project for CSC221 2020FA
 
-Owner: Shannon Kolvitz - smkolvitz@my.waketech.edu
+**Owner:** Shannon Kolvitz - smkolvitz@my.waketech.edu
 
-Project Description: Create a state web scraping program and share GitHub Repository.
+**Project Description:** Create a state web scraping program and share GitHub Repository.
 
-Web scraped URL: https://en.wikipedia.org/wiki/Oklahoma
+**Web scraped URL:** https://en.wikipedia.org/wiki/Oklahoma
 
 Collaborators:
 
-*Susan Rizzo           srizzo@waketech.edu
-*Lee Lewis             lelewis1@my.waketech.edu
-*Ricardo Longoria      rlongoria@my.waketech.edu
-*Patrick Gabriel Luy   paluy@my.waketech.edu
-*Anna Malmberg         amalmberg@my.waketech.edu
+- Susan Rizzo           srizzo@waketech.edu
+- Lee Lewis             lelewis1@my.waketech.edu
+- Ricardo Longoria      rlongoria@my.waketech.edu
+- Patrick Gabriel Luy   paluy@my.waketech.edu
+- Anna Malmberg         amalmberg@my.waketech.edu
