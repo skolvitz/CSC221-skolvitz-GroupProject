@@ -16,5 +16,5 @@ Group Project for CSC221 2020FA
 - Patrick Gabriel Luy   paluy@my.waketech.edu - Accepted
 - Anna Malmberg         amalmberg@my.waketech.edu  - Accepted
 
-** Instructor: **
-Ms. Rizzo               srizzo@waketech.edu
+**Instructor:**
+- Ms. Rizzo             srizzo@waketech.edu
