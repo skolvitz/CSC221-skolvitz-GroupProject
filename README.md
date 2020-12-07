@@ -15,6 +15,9 @@ Group Project for CSC221 2020FA
 - Rick Longoria         rlongoria@my.waketech.edu
 - Patrick Gabriel Luy   paluy@my.waketech.edu - Accepted
 - Anna Malmberg         amalmberg@my.waketech.edu  - Accepted
+Suggestions:
+- You are importing some libraries that you are not using, I would leave them out if you're not using them.
+- I'm not sure about this, but your data looks very linear, are you sure that it's reading it correctly? I had to convert my datatype to int to get it to read properly
 
 **Instructor:**
 - Ms. Rizzo             srizzo@waketech.edu
