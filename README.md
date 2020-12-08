@@ -16,9 +16,9 @@ Group Project for CSC221 2020FA
 - Patrick Gabriel Luy   paluy@my.waketech.edu - Accepted
 - Anna Malmberg         amalmberg@my.waketech.edu  - Accepted
 <br/>
-Suggestions from Anna:  
-1. You are importing some libraries that you are not using, I would leave them out if you're not using them.  
-2. I'm not sure about this, but your data looks very linear, are you sure that it's reading it correctly? I had to convert my datatype to int to get it to read properly.  
+Suggestions from Anna:<br/>
+1. You are importing some libraries that you are not using, I would leave them out if you're not using them.<br/>
+2. I'm not sure about this, but your data looks very linear, are you sure that it's reading it correctly? I had to convert my datatype to int to get it to read properly.<br/>
 <br/>
 
 **Instructor:**
